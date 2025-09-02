@@ -1,0 +1,58 @@
+[
+  {
+    "content": "Summarize SROCC key findings",
+    "role": "user"
+  },
+  {
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p># SROCC Summary for Policymakers: Key Findings</p><ul><li>**Ocean Warming**: Oceans have absorbed 90% of excess heat since 1970.</li><li>**Sea Level Rise**: Global mean sea level rising at 3.7 mm/year, accelerating.</li><li>**Glacier and Ice Loss**: Arctic sea ice declining; Greenland and Antarctic ice sheets losing mass.</li><li>**Marine Ecosystems**: Coral bleaching and fishery declines due to warming and acidification.</li><li>**Coastal Risks**: Increased flooding and erosion affecting millions by 2100.</li><li>**Adaptation Needs**: Enhanced coastal defenses and ecosystem restoration.</li></ul>\n            <ul class=\"sources-list\"><li>SROCC SPM (2019)</li></ul>\n        </div>\n        ",
+    "role": "assistant"
+  },
+  {
+    "content": "Hi ",
+    "role": "user"
+  },
+  {
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p>I can help with IPCC reports! Try asking about:</p><ul><li>SROCC ocean and cryosphere findings</li><li>SR15 1.5\u00b0C pathways</li><li>SRCCL land use impacts</li><li>AR6 WGII impacts and adaptation</li><li>AR6 WGIII mitigation strategies</li></ul>\n            <ul class=\"sources-list\"><li>IPCC Knowledge Base</li></ul>\n        </div>\n        ",
+    "role": "assistant"
+  },
+  {
+    "content": "Hello there",
+    "role": "user"
+  },
+  {
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p>I can help with IPCC reports! Try asking about:</p><ul><li>SROCC ocean and cryosphere findings</li><li>SR15 1.5\u00b0C pathways</li><li>SRCCL land use impacts</li><li>AR6 WGII impacts and adaptation</li><li>AR6 WGIII mitigation strategies</li></ul>\n            <ul class=\"sources-list\"><li>IPCC Knowledge Base</li></ul>\n        </div>\n        ",
+    "role": "assistant"
+  },
+  {
+    "content": "Key points from SR15 1.5\u00b0C report",
+    "role": "user"
+  },
+  {
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p># SR15 1.5\u00b0C Full Report: Key Findings</p><ul><li>**1.5\u00b0C vs. 2\u00b0C**: Half a degree reduces severe impacts significantly.</li><li>**Carbon Budget**: ~420 GtCO\u2082 remaining for 1.5\u00b0C (50% chance, 2018).</li><li>**Emission Cuts**: 45% reduction by 2030, net zero by 2050.</li><li>**Impacts**: Lower risks to ecosystems, health, and food security at 1.5\u00b0C.</li><li>**Solutions**: Rapid energy transition, reforestation, and carbon capture.</li></ul>\n            <ul class=\"sources-list\"><li>SR15 Full Report (2018)</li></ul>\n        </div>\n        ",
+    "role": "assistant"
+  },
+  {
+    "content": "Land use impacts from SRCCL",
+    "role": "user"
+  },
+  {
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p># SRCCL Full Report: Key Findings</p><ul><li>**Land Degradation**: 23% of global land degraded, reducing carbon sinks.</li><li>**Food Security**: Climate change exacerbates hunger; 821 million undernourished.</li><li>**Deforestation**: Contributes 11% of GHG emissions.</li><li>**Solutions**: Sustainable land management, dietary shifts, and reforestation.</li><li>**Co-benefits**: Improved biodiversity, soil health, and livelihoods.</li></ul>\n            <ul class=\"sources-list\"><li>SRCCL Full Report (2019)</li></ul>\n        </div>\n        ",
+    "role": "assistant"
+  },
+  {
+    "content": "ar6",
+    "role": "user"
+  },
+  {
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p>I can help with IPCC reports! Try asking about:</p><ul><li>SROCC ocean and cryosphere findings</li><li>SR15 1.5\u00b0C pathways</li><li>SRCCL land use impacts</li><li>AR6 WGII impacts and adaptation</li><li>AR6 WGIII mitigation strategies</li></ul>\n            <ul class=\"sources-list\"><li>IPCC Knowledge Base</li></ul>\n        </div>\n        ",
+    "role": "assistant"
+  },
+  {
+    "role": "user",
+    "content": "what is ipcc"
+  },
+  {
+    "role": "assistant",
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p>I can help with IPCC reports! Try asking about:</p><ul><li>SROCC ocean and cryosphere findings</li><li>SR15 1.5\u00b0C pathways</li><li>SRCCL land use impacts</li><li>AR6 WGII impacts and adaptation</li><li>AR6 WGIII mitigation strategies</li></ul>\n            <ul class=\"sources-list\"><li>IPCC Knowledge Base</li></ul>\n        </div>\n        "
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Summarize SROCC key findings",
+    "role": "user"
+  },
+  {
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p># SROCC Summary for Policymakers: Key Findings</p><ul><li>**Ocean Warming**: Oceans have absorbed 90% of excess heat since 1970.</li><li>**Sea Level Rise**: Global mean sea level rising at 3.7 mm/year, accelerating.</li><li>**Glacier and Ice Loss**: Arctic sea ice declining; Greenland and Antarctic ice sheets losing mass.</li><li>**Marine Ecosystems**: Coral bleaching and fishery declines due to warming and acidification.</li><li>**Coastal Risks**: Increased flooding and erosion affecting millions by 2100.</li><li>**Adaptation Needs**: Enhanced coastal defenses and ecosystem restoration.</li></ul>\n            <ul class=\"sources-list\"><li>SROCC SPM (2019)</li></ul>\n        </div>\n        ",
+    "role": "assistant"
+  },
+  {
+    "content": "Hello there",
+    "role": "user"
+  },
+  {
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p>I can help with IPCC reports! Try asking about:</p><ul><li>SROCC ocean and cryosphere findings</li><li>SR15 1.5\u00b0C pathways</li><li>SRCCL land use impacts</li><li>AR6 WGII impacts and adaptation</li><li>AR6 WGIII mitigation strategies</li></ul>\n            <ul class=\"sources-list\"><li>IPCC Knowledge Base</li></ul>\n        </div>\n        ",
+    "role": "assistant"
+  },
+  {
+    "role": "user",
+    "content": "What is climate"
+  },
+  {
+    "role": "assistant",
+    "content": "\n        <div class=\"response-content\">\n            <strong>Report Focus: All IPCC Reports</strong>\n            <p>I can help with IPCC reports! Try asking about:</p><ul><li>SROCC ocean and cryosphere findings</li><li>SR15 1.5\u00b0C pathways</li><li>SRCCL land use impacts</li><li>AR6 WGII impacts and adaptation</li><li>AR6 WGIII mitigation strategies</li></ul>\n            <ul class=\"sources-list\"><li>IPCC Knowledge Base</li></ul>\n        </div>\n        "
+  }
+]

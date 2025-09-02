@@ -1,0 +1,7 @@
+Flask==2.3.3
+gunicorn
+faiss-cpu
+langchain
+langchain-huggingface
+langchain-groq
+huggingface-hub
