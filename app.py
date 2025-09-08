@@ -1,9 +1,6 @@
 from flask import Flask, request, jsonify, render_template
 from agent import IPCCLLMAgent  # Import the real class from agent.py
-from dotenv import load_dotenv
 
-# Load environment variables from .env
-load_dotenv()
 
 # Initialize Flask app and agent
 app = Flask(__name__)
