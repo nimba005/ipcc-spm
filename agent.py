@@ -14,7 +14,6 @@ from retrievers import FAISSRetriever
 from flask import Flask
 import socket
 import threading
-from pyngrok import ngrok
 from flask import Flask, request, jsonify, render_template, send_file
 from dotenv import load_dotenv
 
